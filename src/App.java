@@ -12,11 +12,11 @@ public class App {
         // create a list of top 5 things
         // --- TO DO: Change to your own list ---
         String[] top5 = {
-            "1. Coding",
-            "2. Music",
-            "3. Movies",
-            "4. Sports",
-            "5. Travel"
+            "1. sleep",
+            "2. music",
+            "3. money",
+            "4. food",
+            "5. travel"
         };
 
          // A JFrame is a window where we can design our UI
